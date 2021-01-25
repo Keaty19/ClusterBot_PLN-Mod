@@ -1,0 +1,13 @@
+﻿id,node,node.type,node.label
+p001,SNCA,1,GENE
+p002,A-Synuclein,2,PROTEIN
+p003,PD,3,PHENOTYPE
+p004,MAPT,1,GENE
+p005,Tau,2,PROTEIN
+p006,AD,3,PHENOTYPE
+p007,APOE,1,GENE
+p008,Apolipoprotein E,2,PROTEIN
+p009,PSP,3,PHENOTYPE
+p010,HBB,1,GENE
+p011,Beta-Globin,2,PROTEIN
+p012,Sickle-Cell Anaemia,3,PHENOTYPE
